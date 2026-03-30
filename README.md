@@ -54,4 +54,6 @@ title('magnitude response butterworth LPF');
 <img width="1642" height="878" alt="Screenshot 2026-03-28 211447" src="https://github.com/user-attachments/assets/6378c3c0-d8cc-498e-a090-cb2167126ab6" />
 
 ## RESULT:
-Thus design of 2nd order Butterworth low pass IIR filter using  Impulse Invariant Method waveforms were plotted and output was verified.
+
+![WhatsApp Image 2026-03-30 at 2 21 22 PM (7)](https://github.com/user-attachments/assets/b7e5bbf4-2fa1-4f35-8de8-e2a5ecc07e09)
+
